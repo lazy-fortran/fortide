@@ -1,5 +1,5 @@
 {
-  "name": "linter-gfortran",
+  "name": "fortide",
   "displayName": "Modern Fortran",
   "description": "Fortran language support, syntax highlighting, Language Server support, Debugging, Diagnostics and much more.",
   "version": "3.4.0",
@@ -90,7 +90,9 @@
           ".pf",
           ".PF",
           ".fypp",
-          ".FYPP"
+          ".FYPP",
+          ".lf",
+          ".LF"
         ],
         "configuration": "./language-configuration.json",
         "icon": {
